@@ -24,5 +24,5 @@ function towerBuilder(nFloors) {
     }
     arr.push(str)
   }
-  return arr
+  return arr;
 }
